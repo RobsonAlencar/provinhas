@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <string name="app_name">Provinhas</string>
+    <string name="pergunta01">Pergunta 01</string>
+    <string name="pergunta1_text">Essa é a atividade2!</string>
+    <string name="hello_world">Hello!</string>
+    <string name="action_settings">Settings</string>
+    <string name="btn_dialog">Clique para exibir um dialogo</string>
+    <string name="btn_new_activity">Começar!!</string>
+    <string name="title_activity_activity_pergunta1">Pergunta1</string>
+    <string name="escolhaProva_text">Escolha uma prova:</string>
+    <string name="aviso_nenhuma_prova_encontrada">Nenhuma prova encontrada</string>
+    <string name="nome_prova">prova</string>
+    <string name="label_disciplina">disciplina</string>
+
+
+    <string name="btn_OK">OK</string>
+    <string name="rd_alternativa_A">A)</string>
+    <string name="rd_alternativa_B">B)</string>
+    <string name="rd_alternativa_C">C)</string>
+    <string name="rd_alternativa_D">D)</string>
+
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+
+</resources>
